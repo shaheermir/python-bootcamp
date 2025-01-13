@@ -6,7 +6,8 @@ basket = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 
 
 
-
+# Oranges
+print(basket[1][1][0])
 
 
 

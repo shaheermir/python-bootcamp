@@ -11,8 +11,9 @@ print("Hello {0}, your balance is {amount}.".format("Cindy", amount=50))
 
 # 2 How would you write this using f-string? (Scroll down for answer)
 
-
-
+user = 'Tim'
+balance = 50
+print(f"Hello {user}, your balance is {balance}.")
 
 
 
